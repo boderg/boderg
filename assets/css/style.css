@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Bruno+Ace+SC&display=swap');
+
+/*-----------------------------------Colors-----*/
+body {
+    background-color: skyblue;
+}
+
+.bg-color {
+    background-color: ;
+}
+
+.bg-color-name-title {
+    background-color: ;
+    margin-top: 20px
+}
+
+.ui-menu-color-home {
+    background-color: #08b2e3;
+}
+
+.ui-menu-color-resume {
+    background-color: #efe9fa;
+}
+
+.ui-menu-color-contact {
+    background-color: #57a773;
+}
+
+.ui-menu-color-download {
+    background-color: #484d6d;
+}
+
+.bg-color-personal-info {
+    background-image: linear-gradient(#efe9fa, skyblue);
+}
+
+.bg-color-three-reasons {
+    background-image: linear-gradient(#08b2e3, skyblue);
+}
+
+/*------------Special paddings/margins/text-----*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Bruno Ace SC", sans-serif;
+    font-weight: 300;
+    color: #000;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+/*----------------------------------Heading-----*/
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url(../images/avatar_edit.jpg);
+    background-color: #000;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 50%;
+    border: 10px solid #000;
+    height: 375px;
+    width: 375px;
+    margin: 20px;
+    /* min-height: 360px; */
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.name {
+    font-family: "Bruno Ace SC", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #000;
+}
+
+.title {
+    font-family: "Bruno Ace", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 95px;
+    color: #000;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #000;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #000;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    font-family: "Bruno Ace SC", sans-serif;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.section-heading {
+    font-family: "Bruno Ace SC", sans-serif;
+    margin: 20px 0;
+    color: #000;
+    text-align: center;
+}
+
+.key {
+    font-family: "Bruno Ace SC", sans-serif;
+    font-weight: bolder;
+    color: #000;
+    text-align: center;
+}
+
+.value {
+    font-family: "Bruno Ace", sans-serif;
+    margin: 0 0 35px 0px; 
+    color: #000;
+    text-align: center;
+}
+
+.three-reasons-heading {
+    font-family: "Bruno Ace SC", sans-serif; 
+    color: #000;
+    text-align: center;
+    
+}
+
+.reasons {
+    font-family: "Bruno Ace", sans-serif;
+    margin: 20px 0px;
+    color: #000;
+    text-align: center;
+    
+}
+
+/*--------------------------------Hover.css-----*/
+
+.hvr-float-shadow:before {
+    background-color: #000;
+    border-radius: 50%;
+}
+
+/*-----------------------------------Footer-----*/
+
+footer {
+    font-family: "Bruno Ace", sans-serif;
+    color: #000;
+    min-height: 120px;
+    margin: 0;
+    background-image: linear-gradient(skyblue, #57a773);
+}
+
+.cv-pdf i {
+    font-size: 25px;
+    color: #000;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: #efe9f4;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    font-size: 25px;
+    text-align: center;
+    color: #000;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #efe9f4;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+.self-align-center {
+    text-align: center;
+    padding: 0px 40px;
+}
