@@ -2,15 +2,15 @@
 
 /*-----------------------------------Colors-----*/
 body {
+    overflow-x: hidden;
     background-color: skyblue;
 }
 
-.bg-color {
+/* .bg-color {
     background-color: ;
-}
+} */
 
 .bg-color-name-title {
-    background-color: ;
     margin-top: 20px
 }
 
@@ -31,11 +31,11 @@ body {
 }
 
 .bg-color-personal-info {
-    background-image: linear-gradient(#efe9fa, skyblue);
+    background: linear-gradient(skyblue, #efe9fa, skyblue);
 }
 
 .bg-color-three-reasons {
-    background-image: linear-gradient(#08b2e3, skyblue);
+    background: linear-gradient(skyblue, #efe9fa, skyblue);
 }
 
 /*------------Special paddings/margins/text-----*/
@@ -77,8 +77,8 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    border-radius: 50%;
-    border: 10px solid #000;
+    border-radius: 50px;
+    border: 5px solid #00000070;
     height: 375px;
     width: 375px;
     margin: 20px;
@@ -122,6 +122,8 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
+    border-radius: 25px;
+    border: 2px solid #00000070;
 }
 
 .menuitem a {
