@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Bruno+Ace+SC&display=swap');
 
-/*-----------------------------------Colors-----*/
+/*----------Colors----------*/
 body {
     overflow-x: hidden;
     background-color: skyblue;
@@ -38,7 +38,7 @@ body {
     background: linear-gradient(skyblue, #efe9fa, skyblue);
 }
 
-/*------------Special paddings/margins/text-----*/
+/*----------Special paddings/margins/text-----------*/
 
 h1,
 h2,
@@ -51,17 +51,22 @@ h4 {
     text-transform: uppercase;
 }
 
-.general-sub {
-    font-family: "Bruno Ace SC", sans-serif;
+/* .general-sub {
+    font-family: ;
     font-weight: 300;
     color: #000;
-}
+} */
 
 .inline-block {
     display: inline-block;
 }
 
-/*----------------------------------Heading-----*/
+:root {
+    --main-text: Bruno Ace;
+    --second-text: Bruno Ace SC;
+}
+
+/*----------Heading----------*/
 
 header {
     margin: 0;
@@ -187,14 +192,14 @@ header {
     
 }
 
-/*--------------------------------Hover.css-----*/
+/*----------Hover.css----------*/
 
 .hvr-float-shadow:before {
     background-color: #000;
     border-radius: 50%;
 }
 
-/*-----------------------------------Footer-----*/
+/*----------Footer----------*/
 
 footer {
     font-family: "Bruno Ace", sans-serif;
@@ -245,4 +250,37 @@ footer {
 .self-align-center {
     text-align: center;
     padding: 0px 40px;
+}
+
+/*----------Resume----------*/
+
+.resume-heading {
+    font-family: var(--second-text);
+}
+
+.resume-heading p {
+    font-family: var(--main-text);
+    margin: 2rem auto;
+}
+
+.link-item {
+    margin: 1rem auto;
+    list-style: none;
+}
+
+.link-item a {
+    text-decoration: none;
+    color: #000;
+}
+
+.mocks {
+    margin: auto 2%;
+}
+
+.tbs-image, .hma-image, .wd-image {
+    background-color: #0f0d0e;
+    max-width: 30%;
+    margin: 2rem auto;
+    border: 1px solid #000;
+    border-radius: 20px;
 }
