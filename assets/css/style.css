@@ -258,23 +258,28 @@ footer {
     font-family: var(--second-text);
 }
 
+.resume-heading h2 {
+    margin: auto 1rem 2rem 1rem;
+}
+
 .resume-heading p {
     font-family: var(--main-text);
-    margin: 2rem auto;
+    margin: 3rem 2rem;
 }
 
 .link-item {
-    margin: 1rem auto;
     list-style: none;
 }
 
 .link-item a {
     text-decoration: none;
     color: #000;
+    margin: 1rem auto;
 }
 
 .mocks {
-    margin: auto 2%;
+    margin: auto 1rem;
+    display: inline-block;
 }
 
 .tbs-image, .hma-image, .wd-image {
