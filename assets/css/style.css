@@ -94,7 +94,7 @@ header {
 }
 
 .name {
-    font-family: "Bruno Ace SC", sans-serif;
+    font-family: var(--second-text);
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
@@ -102,7 +102,7 @@ header {
 }
 
 .title {
-    font-family: "Bruno Ace", sans-serif;
+    font-family: var(--main-text);
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
@@ -149,7 +149,7 @@ header {
     display: block;
     width: 100%;
     padding-top: 5px;
-    font-family: "Bruno Ace SC", sans-serif;
+    font-family: var(--second-text);
     text-align: center;
     font-size: 16px;
     font-weight: 400;
@@ -157,39 +157,39 @@ header {
 }
 
 .section-heading {
-    font-family: "Bruno Ace SC", sans-serif;
+    font-family: var(--second-text);
     margin: 20px 0;
     color: #000;
     text-align: center;
 }
 
 .key {
-    font-family: "Bruno Ace SC", sans-serif;
+    font-family: var(--second-text);
     font-weight: bolder;
     color: #000;
     text-align: center;
 }
 
 .value {
-    font-family: "Bruno Ace", sans-serif;
-    margin: 0 0 35px 0px; 
+    font-family: var(--main-text);
+    margin: 0 0 35px 0px;
     color: #000;
     text-align: center;
 }
 
 .three-reasons-heading {
-    font-family: "Bruno Ace SC", sans-serif; 
+    font-family: var(--second-text);
     color: #000;
     text-align: center;
-    
+
 }
 
 .reasons {
-    font-family: "Bruno Ace", sans-serif;
+    font-family: var(--main-text);
     margin: 20px 0px;
     color: #000;
     text-align: center;
-    
+
 }
 
 /*----------Hover.css----------*/
@@ -202,7 +202,7 @@ header {
 /*----------Footer----------*/
 
 footer {
-    font-family: "Bruno Ace", sans-serif;
+    font-family: var(--main-text);
     color: #000;
     min-height: 120px;
     margin: 0;
