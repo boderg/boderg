@@ -299,3 +299,38 @@ footer {
     -webkit-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
 }
+
+/*----------Contact----------*/
+
+.contact-heading h2 {
+    font-family: var(--second-text);
+}
+
+.contact-heading h4 {
+    font-family: var(--main-text);
+    margin: 2rem auto;
+}
+
+.form-floating {
+    margin: 0 auto;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+.btn {
+    border: 1px solid #000;
+    background-color: #08b2e3;
+    color: #000;
+    font-family: var(--second-text);
+    font-size: larger;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #000;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
