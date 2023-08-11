@@ -289,3 +289,13 @@ footer {
     border: 1px solid #000;
     border-radius: 20px;
 }
+
+.tbs-image:hover,
+.hma-image:hover,
+.wd-image:hover {
+    border: 5px solid #fff;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
