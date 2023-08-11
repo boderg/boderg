@@ -282,8 +282,9 @@ footer {
     display: inline-block;
 }
 
-.tbs-image, .hma-image, .wd-image {
-    background-color: #0f0d0e;
+.tbs-image,
+.hma-image,
+.wd-image {
     max-width: 30%;
     margin: 2rem auto;
     border: 1px solid #000;
