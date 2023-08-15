@@ -278,22 +278,18 @@ footer {
 }
 
 .mocks {
-    margin: auto 1rem;
+    margin: 1.5rem auto;
     display: inline-block;
 }
 
-.tbs-image,
-.hma-image,
-.wd-image {
+.portfolio {
     max-width: 30%;
     margin: 2rem auto;
     border: 1px solid #000;
     border-radius: 20px;
 }
 
-.tbs-image:hover,
-.hma-image:hover,
-.wd-image:hover {
+.portfolio:hover{
     border: 5px solid #fff;
     transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
