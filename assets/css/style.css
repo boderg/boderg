@@ -331,3 +331,9 @@ footer {
     -webkit-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
 }
+
+@media only screen and (max-width: 1296px) {
+    .portfolio {
+        max-width: 50%;
+    }
+}
