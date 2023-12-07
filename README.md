@@ -46,7 +46,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/Git-%23000?logo=git)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23000?logo=github)
 |
-[![Static Badge](https://img.shields.io/badge/VSCode-%23000?logo=visualstudiocode)](https://img.shields.io/badge/VSCode-%23000?logo=visualstudiocode&logoColor=blue)
+[![Static Badge](https://img.shields.io/badge/VSCode-%23000?logo=visualstudiocode)](https://img.shields.io/badge/VSCode-%23000?logo=visualstudiocode&logoColor=007acc)
 ![Static Badge](https://img.shields.io/badge/ReplIt-%23000?logo=replit)
 
 <br>
