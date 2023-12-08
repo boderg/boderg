@@ -3,7 +3,7 @@
 </center>
 
 
-# Boderg (Simon Boylan) 
+# Simon Boylan
 
 <br>
 
