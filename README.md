@@ -17,7 +17,7 @@ Hi, I'm Simon. I am a Junior Full Stack Developer currently studying for a Level
 
 I love tech (who doesn't?) and I guess I wouldn't be here if I didn't.
 
-I am forging a career change from the retail automotive rental sector into software and web development.
+I am forging a career change from the retail and automotive rental sector into software and web development.
 
 I have always enjoyed learning and undertaking this challenge is something I have wanted to do for a while.
 
