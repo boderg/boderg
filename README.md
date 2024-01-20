@@ -35,6 +35,9 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23202124?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Python-%23202124?logo=python)
 
+https://img.shields.io/badge/python-white?logo=python height="20"
+
+
 <br>
 
 ### Frameworks | Libraries | API's
