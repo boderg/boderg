@@ -31,50 +31,50 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
 ### Programming Languages
 ![Static Badge](https://img.shields.io/badge/HTML5-%233c3c3c?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS3-%23202124?logo=css3&logoColor=%231572b6)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23202124?logo=javascript)
-![Static Badge](https://img.shields.io/badge/Python-%23202124?logo=python)
+![Static Badge](https://img.shields.io/badge/CSS3-%233c3c3c?logo=css3&logoColor=%231572b6)
+![Static Badge](https://img.shields.io/badge/JavaScript-%233c3c3c?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Python-%233c3c3c?logo=python)
 
 <br>
 
 ### Frameworks | Libraries | API's
-![Static Badge](https://img.shields.io/badge/Bootstrap-%23202124?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%233c3c3c?logo=bootstrap)
 |
-![Static Badge](https://img.shields.io/badge/jQuery-%23202124?logo=jquery&logoColor=%230769ad)
-![Static Badge](https://img.shields.io/badge/Font%20Awesome-%23202124?logo=fontawesome)
+![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad)
+![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome)
 |
-![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%23202124?logo=openweathermap)
-![Static Badge](https://img.shields.io/badge/GoogleMaps-%23202124?logo=googlemaps)
+![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap)
+![Static Badge](https://img.shields.io/badge/GoogleMaps-%233c3c3c?logo=googlemaps)
 
 <br>
 
 ### Version Control | IDE's
-![Static Badge](https://img.shields.io/badge/Git-%23202124?logo=git)
-![Static Badge](https://img.shields.io/badge/GitHub-%23202124?logo=github)
+![Static Badge](https://img.shields.io/badge/Git-%233c3c3c?logo=git)
+![Static Badge](https://img.shields.io/badge/GitHub-%233c3c3c?logo=github)
 |
-![Static Badge](https://img.shields.io/badge/VSCode-%23202124?logo=visualstudiocode&logoColor=%23007acc)
-![Static Badge](https://img.shields.io/badge/ReplIt-%23202124?logo=replit)
+![Static Badge](https://img.shields.io/badge/VSCode-%233c3c3c?logo=visualstudiocode&logoColor=%23007acc)
+![Static Badge](https://img.shields.io/badge/ReplIt-%233c3c3c?logo=replit)
 
 <br>
 
 ### Hosting
-![Static Badge](https://img.shields.io/badge/GitHubPages-%23202124?logo=githubpages)
+![Static Badge](https://img.shields.io/badge/GitHubPages-%233c3c3c?logo=githubpages)
 
 <br>
 
 ### Design | Wireframes
-![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%23202124?logo=affinity%20photo&logoColor=%23f088ff)
-![Static Badge](https://img.shields.io/badge/Gimp-%23202124?logo=gimp&logoColor=%235c5543)
-![Static Badge](https://img.shields.io/badge/Krita-%23202124?logo=krita)
+![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%233c3c3c?logo=affinity%20photo&logoColor=%23f088ff)
+![Static Badge](https://img.shields.io/badge/Gimp-%233c3c3c?logo=gimp&logoColor=%235c5543)
+![Static Badge](https://img.shields.io/badge/Krita-%233c3c3c?logo=krita)
 |
-![Static Badge](https://img.shields.io/badge/Balsamiq-%23202124?logo=balsamiq)
-![Static Badge](https://img.shields.io/badge/Pencil-%23202124?logo=pencil)
+![Static Badge](https://img.shields.io/badge/Balsamiq-%233c3c3c?logo=balsamiq)
+![Static Badge](https://img.shields.io/badge/Pencil-%233c3c3c?logo=pencil)
 
 <br>
 
 ### Social
-![Static Badge](https://img.shields.io/badge/LinkedIn-%23202124?logo=linkedin&logoColor=%230a66c2)
-![Static Badge](https://img.shields.io/badge/Slack-%23202124?logo=slack&logoColor=%234a154b)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%233c3c3c?logo=linkedin&logoColor=%230a66c2)
+![Static Badge](https://img.shields.io/badge/Slack-%233c3c3c?logo=slack&logoColor=%234a154b)
 
 
 <!--
