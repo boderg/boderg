@@ -63,7 +63,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 <br>
 
 ### Design | Wireframes
-![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%23202124?logo=affinityphoto)
+![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%23202124?logo=affinityphoto&logoColor=%f088ff)
 ![Static Badge](https://img.shields.io/badge/Gimp-%23202124?logo=gimp&logoColor=%235c5543)
 ![Static Badge](https://img.shields.io/badge/Krita-%23202124?logo=krita)
 |
