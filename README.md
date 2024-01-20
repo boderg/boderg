@@ -30,7 +30,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 <br>
 
 ### Programming Languages
-![Static Badge](https://img.shields.io/badge/HTML5-%23202124?logo=html5&height="20")
+![Static Badge](https://img.shields.io/badge/HTML5-%23202124?logo=html5height="20")
 ![Static Badge](https://img.shields.io/badge/CSS3-%23202124?logo=css3&logoColor=%231572b6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23202124?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Python-%23202124?logo=python)
