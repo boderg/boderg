@@ -63,6 +63,10 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/GitHubPages-%233c3c3c?logo=githubpages)
 ![Static Badge](https://img.shields.io/badge/Heroku-3c3c3c?logo=Heroku)
 
+<br>
+
+### Databases
+![Static Badge](https://img.shields.io/badge/PostgreSql-3c3c3c?logo=PostgreSql)
 
 <br>
 
@@ -75,6 +79,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/Pencil-%233c3c3c?logo=pencil)
 |
 ![Static Badge](https://img.shields.io/badge/Lucid%20Chart-3c3c3c?logo=Lucid%20Chart)
+
 <br>
 
 ### Social
