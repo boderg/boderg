@@ -61,6 +61,8 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
 ### Hosting
 ![Static Badge](https://img.shields.io/badge/GitHubPages-%233c3c3c?logo=githubpages)
+![Static Badge](https://img.shields.io/badge/Heroku-3c3c3c?logo=Heroku)
+
 
 <br>
 
