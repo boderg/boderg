@@ -64,14 +64,15 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
 <br>
 
-### Design | Wireframes
+### Design | Wireframes | Charts
 ![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%233c3c3c?logo=affinity%20photo&logoColor=%23f088ff)
 ![Static Badge](https://img.shields.io/badge/Gimp-%233c3c3c?logo=gimp&logoColor=%235c5543)
 ![Static Badge](https://img.shields.io/badge/Krita-%233c3c3c?logo=krita)
 |
 ![Static Badge](https://img.shields.io/badge/Balsamiq-%233c3c3c?logo=balsamiq)
 ![Static Badge](https://img.shields.io/badge/Pencil-%233c3c3c?logo=pencil)
-
+|
+![Static Badge](https://img.shields.io/badge/Lucid%20Chart-3c3c3c?logo=Lucid%20Chart)
 <br>
 
 ### Social
