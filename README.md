@@ -67,6 +67,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
 ### Databases
 ![Static Badge](https://img.shields.io/badge/PostgreSql-3c3c3c?logo=PostgreSql)
+![Static Badge](https://img.shields.io/badge/MongoDB-3c3c3c?logo=MongoDB)
 
 <br>
 
