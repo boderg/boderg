@@ -42,7 +42,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/Materialize-3c3c3c?logo=Materialize)
 |
 ![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad)
-![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask)
+![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome)
 |
 ![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap)
