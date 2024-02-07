@@ -30,20 +30,20 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 <br>
 
 ### Programming Languages
-![Static Badge](https://img.shields.io/badge/HTML5-%233c3c3c?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS3-%233c3c3c?logo=css3&logoColor=%231572b6)
-![Static Badge](https://img.shields.io/badge/JavaScript-%233c3c3c?logo=javascript)
-![Static Badge](https://img.shields.io/badge/Python-%233c3c3c?logo=python)
+![Static Badge](https://img.shields.io/badge/HTML5-%233c3c3c?logo=html5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-%233c3c3c?logo=css3&logoColor=%231572b6&labelColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%233c3c3c?logo=javascript&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233c3c3c?logo=python&labelColor=white)
 
 <br>
 
 ### Frameworks | Libraries | API's
-![Static Badge](https://img.shields.io/badge/Bootstrap-%233c3c3c?logo=bootstrap)
-![Static Badge](https://img.shields.io/badge/Materialize-3c3c3c?logo=Materialize)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%233c3c3c?logo=bootstrap&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Materialize-3c3c3c?logo=Materialize&labelColor=white)
 |
-![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad)
+![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask&logoColor=black&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome)
+![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome&labelColor=white)
 |
 ![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap)
 ![Static Badge](https://img.shields.io/badge/GoogleMaps-%233c3c3c?logo=googlemaps)
