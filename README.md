@@ -40,9 +40,9 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ### Frameworks | Libraries | API's
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%233c3c3c?logo=bootstrap&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Materialize-3c3c3c?logo=Materialize&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask&logoColor=white&labelColor=%230d1117)
 |
 ![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad&labelColor=%230d1117)
-![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask&logoColor=white&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Jinja-3c3c3c?logo=jinja&labelColor=0d1117)
 ![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome&labelColor=%230d1117)
 |
