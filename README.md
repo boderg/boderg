@@ -88,7 +88,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 <br>
 
 ### Social
-[![Static Badge](https://img.shields.io/badge/LinkedIn-%233c3c3c?logo=linkedin&logoColor=%230a66c2&labelColor=%230d1117)](www.linkedin.com/in/simon-boylan)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%233c3c3c?logo=linkedin&logoColor=%230a66c2&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Slack-%233c3c3c?logo=slack&logoColor=%234a154b&labelColor=%230d1117)
 
 
