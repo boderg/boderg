@@ -80,6 +80,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%233c3c3c?logo=affinity%20photo&logoColor=%23f088ff&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Gimp-%233c3c3c?logo=gimp&logoColor=%235c5543&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Krita-%233c3c3c?logo=krita&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Inkscape-3c3c3c?logo=inkscape&labelColor=0d1117)
 |
 ![Static Badge](https://img.shields.io/badge/Balsamiq-%233c3c3c?logo=balsamiq&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Pencil-%233c3c3c?logo=pencil&labelColor=%230d1117)
