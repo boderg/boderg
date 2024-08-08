@@ -82,8 +82,8 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    border-radius: 50px;
-    border: 5px solid #00000070;
+    border-radius: 10px;
+    border: 5px solid #000000ff;
     height: 375px;
     width: 375px;
     margin: 20px;
@@ -91,6 +91,7 @@ header {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    box-shadow: 0 0 20px #000000ff;
 }
 
 .name {
@@ -127,8 +128,9 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
-    border-radius: 25px;
-    border: 2px solid #00000070;
+    border-radius: 10px;
+    border: 2px solid #000000ff;
+    box-shadow: 0 0 20px #000000ff;
 }
 
 .menuitem a {
@@ -286,7 +288,8 @@ footer {
     max-width: 30%;
     margin: 2rem auto;
     border: 1px solid #000;
-    border-radius: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #000000ff;
 }
 
 .portfolio:hover{
@@ -321,6 +324,7 @@ footer {
     color: #000;
     font-family: var(--second-text);
     font-size: larger;
+    box-shadow: 0 0 10px #000000ff;
 }
 
 .btn:hover {
