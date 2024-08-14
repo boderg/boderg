@@ -5,8 +5,6 @@
 
 # Simon Boylan
 
-<br>
-
 ## Junior Full Stack Web Application Developer
 
 <br>
