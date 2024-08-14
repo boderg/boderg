@@ -7,13 +7,15 @@
 
 <br>
 
-## Junior Full Stack Developer
+## Junior Full Stack Web Application Developer
 
 <br>
 
 ## About Me
 
-Hi, I'm Simon. I am a Junior Full Stack Developer currently studying for a Level 5 Diploma in Full Stack Web Development with Code Institute.
+Hi, I'm Simon. I am a Junior Full Stack Web Application Developer. 
+
+I have recently qualified after studying for a Level 5 Diploma in Full Stack Web Application Development with Code Institute.
 
 I love tech (who doesn't?) and I guess I wouldn't be here if I didn't.
 
