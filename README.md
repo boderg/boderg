@@ -34,6 +34,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 ![Static Badge](https://img.shields.io/badge/CSS3-%233c3c3c?logo=css3&logoColor=%231572b6&labelColor=%230d1117) 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%233c3c3c?logo=javascript&labelColor=%230d1117) 
 ![Static Badge](https://img.shields.io/badge/Python-%233c3c3c?logo=python&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Markdown-3c3c3c?logo=markdown)
 
 
 <br>
