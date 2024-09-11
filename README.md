@@ -13,7 +13,7 @@
 
 Hi, I'm Simon (aka Boderg). I'm a Junior Full Stack Web Application Developer.
 
-I have recently qualified after studying for a Level 5 Diploma in Full Stack Web Application Development with Code Institute.
+I have recently achieved a Level 5 Diploma in Full Stack Web Application Development with Code Institute.
 
 I love tech (who doesn't?) and I am passionate about building great and visually appealing web sites.
 
