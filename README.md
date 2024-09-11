@@ -51,6 +51,7 @@ You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 |
 ![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/GoogleMaps-%233c3c3c?logo=googlemaps&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Stripe-%233c3c3c?logo=stripe&labelColor=%230d1117)
 
 <br>
 
