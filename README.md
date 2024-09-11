@@ -11,15 +11,12 @@
 
 ## About Me
 
-Hi, I'm Simon. I am a Junior Full Stack Web Application Developer. 
-
-I have recently qualified after studying for a Level 5 Diploma in Full Stack Web Application Development with Code Institute.
-
-I love tech (who doesn't?) and I guess I wouldn't be here if I didn't.
-
-I am forging a career change from the retail and automotive rental sector into software and web development.
-
-I have always enjoyed learning and undertaking this challenge is something I have wanted to do for a while.
+Hi, I'm Simon (aka Boderg). I'm a Junior Full Stack Web Application Developer.
+              I have recently qualified after studying for a Level 5 Diploma in Full Stack Web Application Development with Code Institute.
+              I love tech (who doesn't?) and I am passionate about building great and visually appealing web sites.
+              I have worked in the automotive rental industry for 20+ years and I am now forging a new career in web development.
+              I have always enjoyed learning and wanted to learn how to code for a long time. 
+              Making this career change is helping me achieve my goals and I relish the challenge of learning more along the way.
 
 You can connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
