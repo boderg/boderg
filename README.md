@@ -23,7 +23,7 @@ I have always enjoyed learning and wanted to learn how to code for a long time.
 
 Making this career change is helping me achieve my goals and I relish the challenge of learning more along the way.
 
-Visit my site [here](https://boderg.github.io/my-site/) or connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
+Visit [my site here](https://boderg.github.io/my-site/) or connect with me on [LinkedIn](www.linkedin.com/in/simon-boylan).
 
 <br>
 
