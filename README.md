@@ -1,5 +1,5 @@
 <center>
-  <img src="./assets/images/Boderg-neon.png">
+  <img src="./Boderg-neon.png">
 </center>
 
 
