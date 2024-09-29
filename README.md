@@ -41,15 +41,18 @@ Visit [my site here](https://boderg.github.io/my-site/) or connect with me on [L
 
 <br>
 
-### Frameworks | Libraries | API's
+### Frameworks | Runtimes | Libraries | API's
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%233c3c3c?logo=bootstrap&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Materialize-3c3c3c?logo=Materialize&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Flask-%233c3c3c?logo=Flask&logoColor=white&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Django-3c3c3c?logo=django&labelColor=0d1117)
 |
+![Static Badge](https://img.shields.io/badge/NodeJS-%233c3c3c?logo=node.js&labelColor=%230d1117)
+|
 ![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Jinja-3c3c3c?logo=jinja&labelColor=0d1117)
 ![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/NPM-%233c3c3c?logo=npm&labelColor=%230d1117)
 |
 ![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/GoogleMaps-%233c3c3c?logo=googlemaps&labelColor=%230d1117)
@@ -71,6 +74,7 @@ Visit [my site here](https://boderg.github.io/my-site/) or connect with me on [L
 ### Hosting
 ![Static Badge](https://img.shields.io/badge/GitHubPages-%233c3c3c?logo=githubpages&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Heroku-3c3c3c?logo=Heroku&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Render-%233c3c3c?logo=render&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/AWS%20S3-%233c3c3c?logo=amazons3&logoColor=%23ffffff&labelColor=%230d1117)
 
 <br>
