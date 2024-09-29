@@ -51,8 +51,8 @@ Visit [my site here](https://boderg.github.io/my-site/) or connect with me on [L
 |
 ![Static Badge](https://img.shields.io/badge/jQuery-%233c3c3c?logo=jquery&logoColor=%230769ad&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Jinja-3c3c3c?logo=jinja&labelColor=0d1117)
-![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/NPM-%233c3c3c?logo=npm&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Font%20Awesome-%233c3c3c?logo=fontawesome&labelColor=%230d1117)
 |
 ![Static Badge](https://img.shields.io/badge/OpenWeatherMap-%233c3c3c?logo=openweathermap&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/GoogleMaps-%233c3c3c?logo=googlemaps&labelColor=%230d1117)
