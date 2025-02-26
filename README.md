@@ -94,7 +94,7 @@ Visit [my site here](https://boderg.github.io/my-site/) or connect with me on [L
 ![Static Badge](https://img.shields.io/badge/Balsamiq-%233c3c3c?logo=balsamiq&labelColor=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Pencil-%233c3c3c?logo=pencil&labelColor=%230d1117)
 |
-https://img.shields.io/badge/Lucid%20Chart-%233c3c3c?style=flat&logo=lucid&labelColor=%230d1117
+![Static Badge](https://img.shields.io/badge/Lucid%20Chart-%233c3c3c?style=flat&logo=lucid&labelColor=%230d1117)
 
 <br>
 
